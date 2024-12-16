@@ -7,6 +7,8 @@
     - wezterm/.wezterm.lua (my wezterm config)
     - wallpaper/image.jpg (my wallpaper)
     - bashrc/.bashrc (my bashrc)
+- **Assets**:
+    - Ubuntu Mono font: [here](https://fonts.google.com/specimen/Ubuntu+Mono)
 
 This is pretty simple... i'll me implementing more stuff i use in the future.
 ## Preview:
