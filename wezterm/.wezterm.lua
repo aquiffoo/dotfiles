@@ -14,7 +14,7 @@ config.win32_system_backdrop = "Acrylic"
 config.cell_width = 0.9
 config.prefer_egl = true
 config.font_size = 18.0
-config.font = wezterm.font("Ubuntu Mono", { weight = "Regular" })
+config.font = wezterm.font("Input Mono", { weight = "Regular" })
 
 config.color_scheme = "Cloud (terminal.sexy)"
 
