@@ -9,12 +9,12 @@ config.animation_fps = 1
 config.cursor_blink_rate = 500
 config.term = "xterm-256color"
 
-config.window_background_opacity = 0.8
+config.window_background_opacity = 0.6
 config.win32_system_backdrop = "Acrylic"
 config.cell_width = 0.9
 config.prefer_egl = true
-config.font_size = 18.0
-config.font = wezterm.font("Input Mono", { weight = "Regular" })
+config.font_size = 12.0
+config.font = wezterm.font("Maple Mono", { weight = "Regular" })
 
 config.color_scheme = "Cloud (terminal.sexy)"
 
