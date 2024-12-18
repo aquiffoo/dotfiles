@@ -2,7 +2,7 @@
 - OS: Windows 11
 - **Inspirations**:
     - m1chaelwilliams (wezterm config)
-    - [this reddit user](https://www.reddit.com/r/unixporn/comments/1hdhgxw/kde_i_switched_to_fedora_after_using_arch_for_a/) (wallpaper)
+    - [this reddit user](https://www.reddit.com/r/unixporn/comments/1hfc6t0/hyprland_i_like_nord/) (wallpaper)
 - **Structure**:
     - wezterm/.wezterm.lua (my wezterm config)
     - wezterm/icon.ico (wezterm icon i use for taskbar)
