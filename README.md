@@ -7,6 +7,7 @@
     - wezterm/.wezterm.lua (my wezterm config)
     - wallpaper/image.jpg (my wallpaper)
     - bashrc/.bashrc (my bashrc)
+    - glazewm/config.yaml (my glazewm config)
 - **Assets**:
     - Maple Mono font: [here](https://github.com/subframe7536/maple-font)
     - TranslucentTB: [on the Microsoft Store](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=pt-br&gl=BR)
