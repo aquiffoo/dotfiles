@@ -5,7 +5,6 @@
     - [this reddit user](https://www.reddit.com/r/unixporn/comments/1hfc6t0/hyprland_i_like_nord/) (wallpaper)
 - **Structure**:
     - wezterm/.wezterm.lua (my wezterm config)
-    - wezterm/icon.ico (wezterm icon i use for taskbar)
     - wallpaper/image.jpg (my wallpaper)
     - bashrc/.bashrc (my bashrc)
 - **Assets**:
