@@ -9,6 +9,7 @@
     - bashrc/.bashrc (my bashrc)
     - glazewm/config.yaml (my glazewm config)
     - code/settings.json (my vscode settings)
+    - code/custom-js-css-loader (css and js files for my cjsl config)
 - **Assets**:
     - Maple Mono font: [here](https://github.com/subframe7536/maple-font)
 
