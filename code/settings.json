@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "editor.fontFamily": "'Maple Mono', Hack, 'Input Mono Condensed', 'CommitMono Nerd Font Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'Geist Mono', 'Maple Mono', 'Input Mono Condensed', 'CommitMono Nerd Font Mono', 'Fira Code', Consolas, 'Courier New', monospace",
     "javascript.format.semicolons": "insert",
     "window.titleBarStyle": "custom",
     "chatgpt.lang": "en",
@@ -31,7 +31,6 @@
     "git.openRepositoryInParentFolders": "never",
     "editor.cursorStyle": "block",
     "workbench.activityBar.location": "hidden",
-    "workbench.statusBar.visible": false,
     "tabnine.experimentalAutoImports": true,
     "tabnine.codeLensEnabled": false,
     "supermaven.enableFixWithSupermaven": true,
@@ -41,7 +40,6 @@
     "editor.renderWhitespace": "none",
     "workbench.iconTheme": null,
     "editor.minimap.enabled": false,
-    "terminal.integrated.fontSize": 16,
     "workbench.editor.empty.hint": "hidden",
     "editor.smoothScrolling": true,
     "supermaven.otherWarning": false,
@@ -56,13 +54,20 @@
     "catppuccin-noctis-icons.hidesExplorerArrows": false,
     "editor.lineNumbers": "relative",
     "window.commandCenter": false,
-    "workbench.layoutControl.enabled": false,
     "workbench.sideBar.location": "right",
-    "window.zoomLevel": 0.2,
+    "window.zoomLevel": -0.2,
     "editor.accessibilitySupport": "off",
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Darcula Dark Theme",
-    "editor.fontSize": 16,
     "editor.cursorBlinking": "phase",
-    "window.menuBarVisibility": "compact"
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "workbench.colorTheme": "EnvoyOS Theme",
+    "editor.lineHeight": 1.4,
+    "workbench.editor.showTabs": "none",
+    "vscode_custom_css.imports": [
+        "file:///E:/aquiffoo/dotfiles/code/custom-js-css-loader/css.css",
+        "file:///E:/aquiffoo/dotfiles/code/custom-js-css-loader/js.js"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false
 }
